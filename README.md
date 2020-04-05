@@ -5,7 +5,7 @@ Pet face recognition using Retinanet with keras
 https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset
 
 ## Library:
-I used this library: https://github.com/fizyr/keras-retinanet
+I used this library: https://github.com/fizyr/keras-retinanet. It is written in python and keras. Also it has transfer learning option from a model trained on COCO.
 
 ## Results:
 
