@@ -18,3 +18,4 @@ RetinaNet is a single, unified network composed of a backbone network and two ta
 ## Learn more:
 
 Focal loss for object detection: [link to video](https://www.youtube.com/watch?v=44tlnmmt3h0&ab_channel=ComputerVisionFoundationVideos)
+Feature Pyramid Nework : [link to the post](https://towardsdatascience.com/review-fpn-feature-pyramid-network-object-detection-262fc7482610)
