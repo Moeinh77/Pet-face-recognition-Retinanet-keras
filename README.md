@@ -15,4 +15,4 @@ RetinaNet is a single, unified network composed of a backbone network and two ta
 
 ## Learn more:
 
-Focal loss for object detection: (link to video)[https://www.youtube.com/watch?v=44tlnmmt3h0&ab_channel=ComputerVisionFoundationVideos]
+Focal loss for object detection: [link to video](https://www.youtube.com/watch?v=44tlnmmt3h0&ab_channel=ComputerVisionFoundationVideos)
